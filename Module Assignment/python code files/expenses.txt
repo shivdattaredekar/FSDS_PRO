@@ -1,0 +1,5 @@
+Name		Qty	total_amount
+============================
+Food		1	30000
+Drinks		1	40000
+Travel		1	50000
